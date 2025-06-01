@@ -1,2 +1,2 @@
 # Code Portfolio
-Collection of some of my code Projects
+Collection of some of my code Projects (temporarily reorganizing).
