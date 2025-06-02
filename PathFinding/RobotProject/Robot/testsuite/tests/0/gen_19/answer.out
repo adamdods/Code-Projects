@@ -1,0 +1,18 @@
+   -b  c -c -c -a  a -c -c -c -c -c -c -c -c -a -a  b
+ f     e -e -e -d  d -e -e -e -e -e -e -e -e -d -d -f
+-g -g     h -h -h -g -h -h -h -h -h -h -h -h -h -h  g
+-j -i -i    -j -k -j  j -j -j -i -k  i  k -j -j -j -i
+-n -o -o -o    -l -o -n -m -n -o -l  o  l -n  n  m -o
+-r -q -q  q -q    -r -q -p -q -q -r -q -q -q  r  p -r
+-b -a -a  a -a  b    -a -a -a -a -a -a -a -a -b -b -a
+-d -e -d -f  c -f -f     f  d -e -f  e -c -d -c -c -d
+-i -i -i -h -i -h  h  i    -i -i  g -i -h -i -g -h -i
+ j -k  m -m  k -j -j -m -l    -k -k -k -k  l -k -k -j
+-p -p -p -o -p -o  o -n  n -n    -n -o  p -n -o  q -p
+-r -a -a -a -a -a -a  a -a -a -a    -a -a -a  r -r -r
+-b  b  d -d -c -b -b -d -c -d  c -c    -c -d -b -c -d
+-h  h -h -g  f  g -h -e -e -e -f  e -f    -e -f -f -h
+ j -j -j -k -i -k  k -i  i -i -k -i -k -k    -k -k -j
+ n -o -n -n -o -n -n  o -o -o -o  l -o -o -o     m -n
+-p -p -p -p -p -p -p -p  p -p -p -p -p -p -p -p    -p
+-q  q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q
