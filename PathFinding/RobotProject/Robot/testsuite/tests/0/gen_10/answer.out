@@ -1,0 +1,13 @@
+   -a -a -a  a -a -a -a -a -a -a -a -a
+-c    -b  b -c -b -b -b -c -b -c -b  c
+-e -d    -d -e  f -f -f  d -f -e -e  e
+-j  g  h    -j -h -h -h -h  j -j  i -g
+ b  a -a -a    -k -k -k -k -k  k -k -a
+-d -f  g -f -d     c -c  f  d -d -c  e
+-i -j  h -j -i -h     i  j -h -i -i -h
+-a -k  k -a -a -k -k    -k -k -a  a -k
+-b  c  d -c -b -d -d -d    -c -b -c  b
+-f -e -e -e -f -e -e -e  e     f -f -e
+-i -i -j -g  i -g -g -g  j  h     g -j
+-a -c  b  c -a  k -k -k -b -c  a    -b
+-d -e -e -e -d -e -e -e  e -d  d -d
