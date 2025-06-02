@@ -26,16 +26,15 @@ public class SU21784914 {
 
         grid = new int[X][Y];
 
-        // Checks that the program is run with arguments
-        if (args.length < 1) {
-            StdOut.println("Usage:\nArgument 1: G/T\nG - Launches GUI MODE\nT - Launches Command Line mode");
-            Exit();
-        }
+        // Asks for mode Gui(G) or Terminal(T)
+        Scanner inputScanner = new Scanner(System.in);
+        System.out.println("Select mode: G (GUI) / T (Terminal): ");
+        String inputMode = inputScanner.nextLine().trim().toUpperCase();
 
         //Sets whether the game is in terminal mode or GUI mode
-        if (args[0].equals("T")) {
+        if (inputMode.equals("T")) {
             commandLineRun();
-        } else if (args[0].equals("G")) {
+        } else if (inputMode.equals("G")) {
             // Draws the initial GUI
             drawGUI();
             // Starts listening for user input
